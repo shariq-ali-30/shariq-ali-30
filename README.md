@@ -34,9 +34,21 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br><br>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shariq-ali-30&show_icons=true&theme=transparent&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq-ali-30&layout=compact&theme=transparent&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariq-ali-30&theme=transparent" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&theme=github-compact" />
 
 </div>
 
@@ -58,6 +70,10 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <a href="mailto:shariq3072007@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/923706831894">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
