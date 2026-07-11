@@ -34,21 +34,15 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile%20Views&color=36BCF7&style=flat" />
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shariq-ali-30&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq-ali-30&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shariq-ali-30&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=36BCF7&sideNums=36BCF7&currStreakNum=36BCF7&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shariq-ali-30&theme=transparent" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&bg_color=0d1117&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" />
 
 </div>
 
@@ -88,6 +82,6 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 I hope you find my projects interesting and valuable.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 
 </div>
