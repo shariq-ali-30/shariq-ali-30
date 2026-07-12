@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shariq+Ali;Full+Stack+Developer+In+Progress;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=44CC11&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shariq+Ali;Full+Stack+Developer+In+Progress;Building+Modern+Web+Applications" />
 
 </div>
 
@@ -34,15 +34,15 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile%20Views&color=36BCF7&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile+Views&color=brightgreen&style=flat" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shariq-ali-30&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=36BCF7&sideNums=36BCF7&currStreakNum=36BCF7&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shariq-ali-30&theme=github-dark" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&bg_color=0d1117&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&theme=chartreuse-dark" />
 
 </div>
 
@@ -82,6 +82,6 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 I hope you find my projects interesting and valuable.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=44CC11&height=100&section=footer" />
 
 </div>
