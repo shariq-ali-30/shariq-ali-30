@@ -34,15 +34,15 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile+Views&color=brightgreen&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shariq-ali-30&label=Profile+Views&color=1F6FEB&style=flat" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shariq-ali-30&theme=github-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shariq-ali-30&theme=github-dark&background=transparent&border=44CC11" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&theme=chartreuse-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&theme=chartreuse-dark&bg_color=00000000&hide_border=false&border_color=44CC11" />
 
 </div>
 
