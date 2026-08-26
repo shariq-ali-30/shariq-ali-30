@@ -22,7 +22,7 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,github,vscode" />
 
 </div>
 
