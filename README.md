@@ -22,7 +22,7 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,firebase,git,github,vscode" />
 
 </div>
 
@@ -39,10 +39,6 @@ I enjoy writing clean, maintainable code, creating intuitive user interfaces, an
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shariq-ali-30&theme=github-dark&background=0D1117&border=44CC11" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-ali-30&theme=chartreuse-dark&bg_color=0D1117&hide_border=false&border_color=44CC11" />
 
 </div>
 
